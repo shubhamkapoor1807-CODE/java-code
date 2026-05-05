@@ -1,4 +1,4 @@
-public class WordCount
+public class 
 {
 public static void main(String args[])
 {
