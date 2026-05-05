@@ -30,7 +30,7 @@ Nine", " Ten"," Eleven", " Twelve", " Thirteen", " Fourteen", "Fifteen", " Sixte
  if (n <= 0)
  {
 
- System.out.println("Enter numbers greater than 0");
+ System.out.println("Enter number greater than 0 ");
  }
  else
  {
