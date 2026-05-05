@@ -1,4 +1,4 @@
-public class RemoveAllVovels {
+public class  {
 
  public static void main(String[] args) {
  String string = "Welcome to Candid Java Programming";
